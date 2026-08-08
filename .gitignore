@@ -1,0 +1,9 @@
+# Local/editor state
+*.lck
+*.kicad_prl
+~*
+
+# Complete local QMK checkout and build output; only board-specific sources
+# under firmware/ are intended to be published in this repository.
+qmk_firmware/
+_reference_sage_hackpad/
