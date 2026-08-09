@@ -35,7 +35,7 @@ The authoritative BOM is [`production/bom.csv`](production/bom.csv). In summary,
 - 15 × 100 nF capacitors, 1 × 100 µF capacitor, and 1 × 330 Ω resistor
 - 4 MX stabilizer positions
 
-The BOM also includes purchase rows for 100 hot-swap sockets, 100 EPOMAKER Creamy Jade switches, two 3 mm Poron foam options, stainless case screws, and 100 brass heat-set inserts. Confirm the screw and insert variants before ordering.
+The BOM also includes purchase rows for 100 hot-swap sockets, 100 EPOMAKER Creamy Jade switches, two 3 mm Poron foam options, 50 stainless case screws, 100 brass heat-set inserts, and a Keychron Hacker Cherry-profile PBT keycap set. Confirm the screw and insert variants before ordering.
 
 ## Firmware
 
