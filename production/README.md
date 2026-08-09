@@ -2,6 +2,7 @@
 
 - `gerber.zip` — Gerber, drill, and drill-map files
 - `bom.csv` — bill of materials
+- `bom_readable.csv` — human-readable BOM summary
 - `designators.csv` — component designators
 - `positions.csv` — placement coordinates
 - `netlist.ipc` — IPC netlist export
