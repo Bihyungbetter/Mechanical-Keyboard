@@ -4,6 +4,8 @@
 
 This Mechanical Keyboard is a custom 75-key Alice mechanical keyboard built around a Raspberry Pi Pico / RP2040. It has a 5×15 key matrix, per-key SK6812 MINI-E RGB lighting, an EC11 rotary encoder with push switch, and a 128×32 I2C OLED display. I learned how to stitch together different parts, and I made this in hopes of a more ergonomic keyboard. 
 
+I estimate I need 150$ for funding. Any extra funds will be returned to Hack Club
+
 I do plan to make more unique designs and carvings in the CAD, but I want to first get it approved. School starts for me soon, so it's important for me to get this done asap :D. 
 ## Features
 
