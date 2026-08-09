@@ -35,3 +35,9 @@ The authoritative BOM is [`production/bom.csv`](production/bom.csv). In summary,
 - 4 MX stabilizer positions
 
 The BOM also includes purchase rows for 100 hot-swap sockets, 100 EPOMAKER Creamy Jade switches, two 3 mm Poron foam options, 50 stainless case screws, 100 brass heat-set inserts, and a Keychron Hacker Cherry-profile PBT keycap set. Confirm the screw and insert variants before ordering.
+
+## Pictures
+<img width="3296" height="2547" alt="Assembly 1" src="https://github.com/user-attachments/assets/00e7176e-95f6-46d2-90ea-345ecab252ed" />
+<img width="1026" height="488" alt="image" src="https://github.com/user-attachments/assets/8ec3c58c-74a6-434d-88b6-5adebc86f66e" />
+
+
