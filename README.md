@@ -36,21 +36,3 @@ The authoritative BOM is [`production/bom.csv`](production/bom.csv). In summary,
 - 4 MX stabilizer positions
 
 The BOM also includes purchase rows for 100 hot-swap sockets, 100 EPOMAKER Creamy Jade switches, two 3 mm Poron foam options, 50 stainless case screws, 100 brass heat-set inserts, and a Keychron Hacker Cherry-profile PBT keycap set. Confirm the screw and insert variants before ordering.
-
-## Firmware
-
-The board-specific sources are in [`firmware/keyboards/eastern_style`](firmware/keyboards/eastern_style). The ready-to-flash build is [`firmware/eastern_style_default.uf2`](firmware/eastern_style_default.uf2).
-
-The encoder rotates for volume control and its push switch sends mute. Hold the function key to access bootloader, RGB controls, and media controls. To rebuild with QMK, use the `qmk_firmware` checkout and compile the `eastern_style` keyboard with the `default` keymap.
-
-## CAD and manufacturing
-
-The six STEP files in `cad/` came from the supplied `Case and Plate.zip`. The manufacturing package in `production/gerber.zip` contains copper, solder mask, paste, silkscreen, edge cuts, and PTH/NPTH drill outputs.
-
-## Build status
-
-The repository currently contains the design and production files. Photos of assembly and the finished keyboard can be added to this README as the build progresses.
-
-## Credits and licensing
-
-The repository structure is inspired by [Sage_Hackpad](https://github.com/Bihyungbetter/Sage_Hackpad). The Eastern Style design files and documentation are separate work and are provided for personal use unless otherwise stated.
