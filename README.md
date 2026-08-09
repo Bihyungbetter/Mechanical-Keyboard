@@ -1,11 +1,10 @@
-# Eastern Style Keyboard
+# Mechanical Keyboard
 
 ## Overview
 
-Eastern Style is a custom 75-key mechanical keyboard built around a Raspberry Pi Pico / RP2040. It has a 5×15 key matrix, per-key SK6812 MINI-E RGB lighting, an EC11 rotary encoder with push switch, and a 128×32 I2C OLED display.
+This Mechanical Keyboard is a custom 75-key Alice mechanical keyboard built around a Raspberry Pi Pico / RP2040. It has a 5×15 key matrix, per-key SK6812 MINI-E RGB lighting, an EC11 rotary encoder with push switch, and a 128×32 I2C OLED display.
 
-This repository is organized as a build log and submission package. The PCB, firmware, case/plate exports, fabrication outputs, and BOM are included so the project can be reproduced and documented in one place.
-
+I do plan to make more unique designs and carvings in the CAD, but I want to first get it approved. School starts for me soon so it's important for me to get this done asap :D. 
 ## Features
 
 - 75 MX-compatible hot-swap switch positions
