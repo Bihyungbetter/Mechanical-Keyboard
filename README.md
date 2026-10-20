@@ -57,6 +57,6 @@ The BOM also includes purchase rows for 100 hot-swap sockets, 100 EPOMAKER Cream
 | 100 nF capacitor (0805) | Samsung CL21B104KBCNNNC | 20 | $0.045 | $0.90 | [DigiKey](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNNNC/3886661) |
 | 100 uF capacitor (1206, 10 V) | Murata GRM31CR61A107MEA8L | 2 | $0.55 | $1.10 | [DigiKey](https://www.digikey.com/en/products/detail/murata-electronics/GRM31CR61A107MEA8L/16033775) |
 | 330 ohm resistor (0805) | Yageo RC0805FR-07330RL | 10 | $0.034 | $0.34 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC0805FR-07330RL/727866) |
-| Keycaps | Keychron Cherry Double-Shot PBT Full Set - Hacker Mint (218 keys) | 1 | $39.99 | $39.99 | [Keychron](https://www.keychron.com/products/double-shot-pbt-cherry-full-set-keycap-set-hacker?variant=40012590743641) |
+| Keycaps | Daylight PBT translucent keycaps, OEM profile, 135 keys - TopPrint White (keycaps only) | 1 | $11.15 | $11.15 | [AliExpress](https://www.aliexpress.us/item/3256810405041338.html) |
 | PCB (5 pcs) | JLCPCB 360 x 155 mm, 2-layer, 1.6 mm FR-4 | 1 | $30.90 | $30.90 | [JLCPCB](https://cart.jlcpcb.com/quote) |
-| **Total** | | | | **$149.57** | |
+| **Total** | | | | **$120.73** | |
