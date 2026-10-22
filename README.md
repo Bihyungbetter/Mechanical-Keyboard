@@ -16,6 +16,8 @@ I do plan to make more unique designs and carvings in the CAD, but I want to fir
 - 128×32 I2C OLED display
 - QMK firmware with a base layer and function/RGB layer
 
+Onshape Link: https://cad.onshape.com/documents/8ad6bc956480bc630ab8271b/w/5b6e3b74d25b2afffc5b1596/e/df48eba2c3a944c445852ffe?renderMode=0&uiState=6ad977a7a138a0b5e7c4d2a0
+
 ## Repository layout
 
 - `pcb/` — KiCad PCB, schematic, project, and lighting schematic
