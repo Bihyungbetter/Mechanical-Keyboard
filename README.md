@@ -21,28 +21,17 @@ Onshape Link: https://cad.onshape.com/documents/8ad6bc956480bc630ab8271b/w/5b6e3
 ## Repository layout
 
 - `pcb/` — KiCad PCB, schematic, project, and lighting schematic
-- `cad/` — STEP exports for the case and plate parts
+- `cad/` — The Entire CAD Assembly for the Keyboard
 - `firmware/` — board-specific QMK sources and the compiled UF2
 - `production/` — BOM, designators, placement data, IPC netlist, and Gerber/drill ZIP
 - `qmk_firmware/` — local QMK checkout used to build the firmware (excluded from the repository; board-specific sources are in `firmware/`)
 
-## Bill of materials
-
-The authoritative BOM is [`production/bom.csv`](production/bom.csv). In summary, the design uses:
-
-- 1 Raspberry Pi Pico
-- 75 MX-compatible hot-swap switches and 75 1N4148 diodes
-- 75 SK6812 MINI-E LEDs
-- 1 EC11 rotary encoder with push switch
-- 1 128×32 I2C OLED display
-- 15 × 100 nF capacitors, 1 × 100 µF capacitor, and 1 × 330 Ω resistor
-- 4 MX stabilizer positions
-
-The BOM also includes purchase rows for 100 hot-swap sockets, 100 EPOMAKER Creamy Jade switches, two 3 mm Poron foam options, 50 stainless case screws, 100 brass heat-set inserts, and a Keychron Hacker Cherry-profile PBT keycap set. Confirm the screw and insert variants before ordering.
-
 ## Pictures
 <img width="3296" height="2547" alt="Assembly 1" src="https://github.com/user-attachments/assets/00e7176e-95f6-46d2-90ea-345ecab252ed" />
 <img width="1026" height="488" alt="image" src="https://github.com/user-attachments/assets/8ec3c58c-74a6-434d-88b6-5adebc86f66e" />
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/d5da37be-3db1-45d4-a2b4-37a0ae288aae" />
+<img width="4096" height="2048" alt="image" src="https://github.com/user-attachments/assets/1bfdf0ed-162e-4670-94ed-0ba41838389a" />
+
 
 ## BOM
 
