@@ -29,8 +29,9 @@ Onshape Link: https://cad.onshape.com/documents/8ad6bc956480bc630ab8271b/w/5b6e3
 ## Pictures
 <img width="3296" height="2547" alt="Assembly 1" src="https://github.com/user-attachments/assets/00e7176e-95f6-46d2-90ea-345ecab252ed" />
 <img width="1026" height="488" alt="image" src="https://github.com/user-attachments/assets/8ec3c58c-74a6-434d-88b6-5adebc86f66e" />
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/d5da37be-3db1-45d4-a2b4-37a0ae288aae" />
-<img width="4096" height="2048" alt="image" src="https://github.com/user-attachments/assets/1bfdf0ed-162e-4670-94ed-0ba41838389a" />
+<img width="1229" height="569" alt="image" src="https://github.com/user-attachments/assets/8dd44418-f021-4bd7-987a-405be4ec1e89" />
+<img width="633" height="383" alt="image" src="https://github.com/user-attachments/assets/544c9626-afe5-412d-badd-3320d59eed04" />
+<img width="1272" height="386" alt="image" src="https://github.com/user-attachments/assets/77fbba7b-6949-4476-8975-9b5ef9a23ed4" />
 
 
 ## BOM
