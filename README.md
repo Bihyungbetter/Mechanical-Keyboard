@@ -23,8 +23,7 @@ Onshape Link: https://cad.onshape.com/documents/8ad6bc956480bc630ab8271b/w/5b6e3
 - `pcb/` — KiCad PCB, schematic, project, and lighting schematic
 - `cad/` — The Entire CAD Assembly for the Keyboard
 - `firmware/` — board-specific QMK sources and the compiled UF2
-- `production/` — BOM, designators, placement data, IPC netlist, and Gerber/drill ZIP
-- `qmk_firmware/` — local QMK checkout used to build the firmware
+- `production/` — Gerber and drill files (gerber.zip) for PCB fabrication
 
 ## Pictures
 <img width="3296" height="2547" alt="Assembly 1" src="https://github.com/user-attachments/assets/00e7176e-95f6-46d2-90ea-345ecab252ed" />
