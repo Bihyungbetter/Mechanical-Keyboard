@@ -1177,12 +1177,6 @@
 		(uuid "acad87a5-1260-4b12-b8a0-60a36303f2ab")
 	)
 	(junction
-		(at 43.18 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "acd2419b-f2ed-4db6-95f9-f9d91cc0be41")
-	)
-	(junction
 		(at 185.42 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1603,16 +1597,6 @@
 			(type default)
 		)
 		(uuid "36754fda-71dc-480e-ba0c-03c6eb2a47c4")
-	)
-	(wire
-		(pts
-			(xy 41.91 72.39) (xy 43.18 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b803e1a-3d0e-4aa5-9e47-4e5429f6b98f")
 	)
 	(wire
 		(pts
@@ -3040,7 +3024,7 @@
 	)
 	(global_label "Led S"
 		(shape input)
-		(at 41.91 72.39 180)
+		(at 43.18 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3050,7 +3034,7 @@
 		)
 		(uuid "f01586ec-83f2-4b8b-8bfc-3c250862fd8d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 33.482 72.39 0)
+			(at 34.752 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12779,83 +12763,6 @@
 			(project "Eastern Style Keyboard"
 				(path "/c6080f39-fb81-43c0-872b-5b4d643573fc/d502464d-dd56-44cf-a982-31df6d283440"
 					(reference "LED10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 43.18 80.01 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "adc2c4e9-d16c-4807-859a-5ba94e2a49e8")
-		(property "Reference" "#PWR010"
-			(at 43.18 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 39.878 80.01 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 43.18 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d2724e0e-6d06-4ada-bdd7-a3ec54a211f4")
-		)
-		(instances
-			(project "Eastern Style Keyboard"
-				(path "/c6080f39-fb81-43c0-872b-5b4d643573fc/d502464d-dd56-44cf-a982-31df6d283440"
-					(reference "#PWR010")
 					(unit 1)
 				)
 			)
