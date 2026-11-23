@@ -1,0 +1,11 @@
+(version 1)
+
+# SK6812 MINI-E is reverse-mounted: the LED body sits in its own cutout and the
+# pads necessarily end ~0.05-0.1 mm from that cutout. Relax edge clearance ONLY
+# between an LED's pads and the Edge.Cuts cutout of an LED footprint. Everything
+# else (tracks, other footprints, the board outline) keeps the global 0.25 mm.
+# Fab note: this is a waived manufacturing risk, not a fix - the router may nick
+# pad copper at the cutout. Keep the pads; they still solder fine if trimmed.
+(rule "SK6812 MINI-E pads to own cutout"
+	(constraint edge_clearance (min 0mm))
+	(condition "A.Type == 'Pad' && A.memberOfFootprint('LED*') && B.Layer == 'Edge.Cuts' && B.memberOfFootprint('LED*')"))
